@@ -1,5 +1,5 @@
 const farmAnimals = 'cow horse sheep pig chicken'
-const [moo, neigh, baa, oink, cockadoodledo]
+const [moo, neigh, baa, oink, cockadoodledo] = 'cow horse sheep pig chicken'.split(' ')
 
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
